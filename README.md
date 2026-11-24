@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/op-banner-dark.svg">
-  <img src="assets/op-banner-light.svg" width="860" height="164" alt="">
+  <img src="assets/op-banner-light.svg" width="860" alt="">
 </picture>
 
 # Oscar Martin Paredes Morales
